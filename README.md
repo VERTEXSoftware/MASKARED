@@ -1,0 +1,2 @@
+# MASKARED
+MASKARED - compression algorithm.
